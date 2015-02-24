@@ -7,12 +7,12 @@ layout: default
   <h1 class="page-heading">Events</h1>
 
   <ul class="post-list">
-    {% for post in site.posts %}
+    {% for event in site.events %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
+        <span class="event-meta">{{ event.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a class="event-link" href="{{ event.url | prepend: site.baseurl }}">{{ event.title }}</a>
         </h2>
       </li>
     {% endfor %}
