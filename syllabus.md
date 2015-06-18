@@ -1,6 +1,7 @@
 ---
 title: Syllabus
 author: Dav Clark
+contributors: Anthony Suen
 layout: page
 comments: true
 ---
@@ -15,7 +16,9 @@ approach, with a classroom discussion each week, followed by a tutorial /
 practicum in the [Berkeley Institute for Data Science][BIDS. Note that the focus
 of this course is on data collection and management. Teams will likely do some
 basic visualization and exploratory data analysis; statistics and/or machine
-learning are not expected.  We will leverage support from the [Social Science
+learning are not expected.  
+
+We will leverage support from the [Social Science
 Matrix][Matrix], the [D-Lab][Dlab], [BIDS][BIDS], and [Berkeley Research
 Computing][BRC] to provide necessary training, hardware, and compute resources.
 This course is being offered as a part of the [Data Science Collaborative][DSC]
@@ -41,12 +44,12 @@ meaningful skills.  Available resources on campus (e.g., in [D-Lab][Dlab] and
 
 Please note, the curriculum is very much a work in progress.
 
- - Week 1
-    - Lecture: Overview of issues in social and environmental measurement
+ - Week 1 
+    - Lecture: Overview of issues in social and environmental measurement (Guest Speaker?)
     - Selection of team leads for projects
     - Practical: project management with GitHub, part 1
  - Week 2
-    - Lecture: An introduction to ethical and legal concerns
+    - Lecture: An introduction to ethical and legal concerns (Guest Speaker?)
     - Final selection of teams, codes available for telebears
     - Practical: Creation of team repositories, wiki, and project roadmap in
       issue tracker. Identification of needed technical resources, including
