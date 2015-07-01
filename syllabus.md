@@ -65,12 +65,14 @@ Please note, the curriculum is very much a work in progress.
       Electricity & Water)
 
  - Mid-semester (2 weeks)
+ 
     - Presentations: discuss successes, plans, and difficulties. Mid-semester
       presentations have a "technical" focus, with a goal of enabling your
       classmates.
     - Practical: teams and mentors work together to ensure successes are
       reproducible, pull in outside skills to address challenges. Videos of
       presentations reviewed by presenters and viewers.
+
  - Final presentations (2 weeks)
    - Discuss results in a non-technical fashion.
    - Practical: Finalize reproducible and transparent research reports (test
@@ -81,13 +83,13 @@ Please note, the curriculum is very much a work in progress.
 Percentage breakdown TBD.
 
  - Clarity / reproducibility of methods and results (presented on GitHub,
-   assessed twice at mid-semester and final, strongly weighted towards final).
- - Quality of presentations (incorporating self assessment and peer assessment)
- - Quality of self assessment
- - Quality of peer assessment
+   assessed twice at mid-semester and final, strongly weighted towards final). 50%
+ - Quality of presentations (incorporating self assessment and peer assessment) 50%
+ - Quality of self assessment (25%)
+ - Quality of peer assessment (25%)
 
 Open questions:
 
  - Should all team-members get the same grade for team project? Or should teams
-   be allowed to assign credit to different members?
+   be allowed to assign credit to different members? Different grades based on peer evaluation (Lean Launchpad Model)
  - How do students get credit for helping other teams?
