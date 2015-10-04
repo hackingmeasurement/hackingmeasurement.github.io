@@ -12,6 +12,8 @@ layout: project
 Manylabs supports the development of open tools for science and science
 education.
 
+ <img src="https://cloud.githubusercontent.com/assets/2729194/9623929/847f748a-50fc-11e5-9f45-7b3b67c5736f.jpg" alt="hi" class="inline"/>
+
 ## Project Description
 
 Create a public data set comparing a variety of different air quality sensors.
